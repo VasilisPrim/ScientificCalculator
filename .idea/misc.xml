@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/button.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/button2.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/button3.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/button4.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/functions.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/ic_parameters_background.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/ic_parameters_foreground.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/linearlayout.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/parameter_text.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/drawable/results.xml" value="0.295" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Android/ScientificCalculator/app/src/main/res/layout/main_activity.xml" value="0.3609375" />
+        <entry key="..\:/Android/assignment3.VasilisPrimikyris/ScientificCalculator/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="param">Παράμετροι</string>
+    <string name="function">Συναρτήσεις</string>
+    <string name="results">Αποτελέσματα</string>
+    <string name="factorial">Factorial</string>
+    <string name="fibo">Fibonacci</string>
+    <string name="mcd">MCD</string>
+    <string name="clear">Καθαρισμός</string>
+    <string name="clear_all">Καθαρισμός όλων</string>
+
+</resources>
